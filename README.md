@@ -15,7 +15,7 @@ const jagadeesh = {
   name:       "Jagadeesh M",
   location:   "Madurai, Tamil Nadu, India",
   email:      "jagadeeshm419@gmail.com",
-  github:     "github.com/mjagadeesh",
+  github:     "github.com/Jagadeeshm419",
   linkedin:   "linkedin.com/in/mjagadeesh",
   degree:     "BSc Computer Science — The American College, Madurai",
 
@@ -85,11 +85,11 @@ const jagadeesh = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/mjagadeesh">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=mjagadeesh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800" alt="Jagadeesh's GitHub Stats"/>
+  <a href="https://github.com/Jagadeeshm419">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jagadeeshm419&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800" alt="Jagadeesh's GitHub Stats"/>
   </a>
-  <a href="https://github.com/mjagadeesh">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjagadeesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800" alt="Top Languages"/>
+  <a href="https://github.com/Jagadeeshm419">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagadeeshm419&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800" alt="Top Languages"/>
   </a>
 </div>
 
@@ -98,7 +98,7 @@ const jagadeesh = {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mjagadeesh&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Jagadeeshm419&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -106,7 +106,7 @@ const jagadeesh = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mjagadeesh&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jagadeeshm419&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -114,7 +114,7 @@ const jagadeesh = {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mjagadeesh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Jagadeeshm419&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -164,9 +164,9 @@ const jagadeesh = {
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[MERN Stack Todo Application](https://github.com/mjagadeesh)** | MongoDB · Express.js · React.js · Node.js | Full-stack task management app with complete CRUD operations; REST API integration between React frontend and Node backend; responsive across desktop & mobile |
-| **[Business Website Development](https://github.com/mjagadeesh)** | WordPress · Elementor | Responsive business websites with customized themes & plugins; improved site speed, SEO performance, and UX; mobile-friendly & cross-browser compatible |
-| **[Personal Portfolio Website](https://github.com/mjagadeesh)** | HTML · CSS · JavaScript · WordPress | Professional portfolio showcasing technical skills, projects, and experience; responsive layouts with optimized performance |
+| **[MERN Stack Todo Application](https://github.com/Jagadeeshm419)** | MongoDB · Express.js · React.js · Node.js | Full-stack task management app with complete CRUD operations; REST API integration between React frontend and Node backend; responsive across desktop & mobile |
+| **[Business Website Development](https://github.com/Jagadeeshm419)** | WordPress · Elementor | Responsive business websites with customized themes & plugins; improved site speed, SEO performance, and UX; mobile-friendly & cross-browser compatible |
+| **[Personal Portfolio Website](https://github.com/Jagadeeshm419)** | HTML · CSS · JavaScript · WordPress | Professional portfolio showcasing technical skills, projects, and experience; responsive layouts with optimized performance |
 
 </div>
 
@@ -216,9 +216,9 @@ const jagadeesh = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mjagadeesh&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Jagadeeshm419&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
   &nbsp;
-  <a href="https://linkedin.com/in/mjagadeesh">
+  <a href="https://linkedin.com/in/Jagadeeshm419">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
