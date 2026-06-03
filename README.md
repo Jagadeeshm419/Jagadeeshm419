@@ -107,7 +107,7 @@ const jagadeesh = {
 ## 💼 Work Experience
 
 <details>
-<summary><b>🏢 Aedentek — Website Developer &nbsp;|&nbsp; May 2025 – Present &nbsp;|&nbsp; Madurai, Tamil Nadu</b></summary>
+<summary><b>🏢 Aedentek — Full Stack Developer | Website Developer &nbsp;|&nbsp; May 2025 – Present &nbsp;|&nbsp; Madurai, Tamil Nadu</b></summary>
 
 > ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white) ![SEO](https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white)
 
